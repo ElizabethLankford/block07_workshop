@@ -16,11 +16,11 @@ const code3 = 40 - 1;
 
 // console logging the variables
 console.log(messageStr);
-console.log(code1, code2, code3)
+console.log(code1, code2, code3);
 
 // pop up dialog for the message
-alert(messageStr)
+alert(messageStr);
 
 // pop up dialog for the code
-alert(`${code1} - ${code2} - ${code3}`)
+alert(`${code1} - ${code2} - ${code3}`);
 
